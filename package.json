@@ -1,0 +1,25 @@
+{
+  "name": "rudloff-starter",
+  "description": "Starter for my new PHP projects",
+  "version": "0.1.0",
+  "author": "Pierre Rudloff",
+  "bugs": "https://github.com/Rudloff/rudloff-starter/issues",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-fixpack": "~0.1.0",
+    "grunt-jslint": "~1.1.14",
+    "grunt-jsonlint": "~1.1.0",
+    "grunt-phpcs": "~0.4.0",
+    "grunt-phpunit": "~0.3.6"
+  },
+  "homepage": "https://www.rudloff.pro/",
+  "keywords": [
+    "starter"
+  ],
+  "license": "GPL-3.0",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rudloff/rudloff-starter.git"
+  }
+}
