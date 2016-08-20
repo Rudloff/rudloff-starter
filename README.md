@@ -2,5 +2,5 @@
 
 ## Usage
 ```bash
-composer create-project rudloff/starter ~0.1.0
+composer create-project rudloff/starter
 ```
