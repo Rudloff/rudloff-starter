@@ -33,7 +33,7 @@ module.exports = function (grunt) {
             },
             jsonlint: {
                 manifests: {
-                    src: ['*.json', '*.webapp'],
+                    src: '*.json',
                     options: {
                         format: true
                     }
