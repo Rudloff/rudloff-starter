@@ -1,7 +1,7 @@
 {
   "name": "rudloff-starter",
   "description": "Starter for my new PHP projects",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Pierre Rudloff",
   "bugs": "https://github.com/Rudloff/rudloff-starter/issues",
   "devDependencies": {
